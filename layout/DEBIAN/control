@@ -1,0 +1,10 @@
+Package: com.mathieubolard.nccleaner
+Name: NCCleaner
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mathieu Bolard
+Author: Mathieu Bolard
+Depiction: http://mathieubolard.com/mobile/depiction/nccleaner.html
+Section: Tweaks
